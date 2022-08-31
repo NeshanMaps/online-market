@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Online market</string>
+    <string name="request">درخواست خودرو</string>
+    <string name="searching_for_car">در حال یافتن خودرو...</string>
+    <string name="cancel">لغو درخواست</string>
+    <string name="submit_source">تایید مبدا</string>
+    <string name="submit_destination">تایید مقصد</string>
+    <string name="source">مبدا</string>
+    <string name="destination">مقصد</string>
+    <string name="rial">ریال</string>
+    <string name="tooman">تومان</string>
+    <string name="products">محصولات</string>
+    <string name="complete_order">تکمیل سفارش</string>
+    <string name="receiver_name">نام گیرنده</string>
+    <string name="receiver_lastname">نام خانوادگی گیرنده</string>
+    <string name="receiver_address">آدرس</string>
+    <string name="postal_code">کد پستی</string>
+    <string name="location_on_map">موقعیت روی نقشه</string>
+    <string name="submit">تایید</string>
+    <string name="order_completed">سفارش شما با موفقیت ثبت شد</string>
+    <string name="please_fill_data_correctly">لطفا اطلاعات را تکمیل نمایید</string>
+    <string name="returning">بازگشت</string>
+</resources>
