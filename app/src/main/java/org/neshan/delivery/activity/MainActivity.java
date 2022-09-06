@@ -106,6 +106,8 @@ public class MainActivity extends AppCompatActivity {
             }
         }, 200);
 
+        map.getSettings().setZoomControlsEnabled(true);
+
         map.setOnMarkerClickListener(new MapView.OnMarkerClickListener() {
             @Override
             public void OnMarkerClicked(Marker marker) {
